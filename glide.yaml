@@ -1,0 +1,7 @@
+package: github.com/zenoss/kafka-helper
+import:
+- package: github.com/Shopify/sarama
+  version: ~1.12.0
+- package: github.com/spf13/cobra
+- package: github.com/spf13/viper
+  version: ~1.0.0
