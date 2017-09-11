@@ -16,3 +16,6 @@
 
 # The binary itself
 kafka-helper
+
+# goreleaser artifacts
+dist

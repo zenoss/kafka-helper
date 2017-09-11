@@ -1,0 +1,5 @@
+.git*
+.glide
+glide.*
+README.md
+dist
